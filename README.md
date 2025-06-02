@@ -24,18 +24,4 @@ A full-stack real-time chat application using the **MERN stack**, featuring **So
 - **Real-time Communication:** Socket.io
 - **Authentication:** JWT
 
----
 
-## 📁 Project Structure
-
-chat-app/
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ └── middleware/
-├── frontend/
-│ ├── components/
-│ ├── pages/
-│ ├── store/
-│ └── utils/
